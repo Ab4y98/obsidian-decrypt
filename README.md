@@ -1,7 +1,5 @@
 # obsidian-decrypt
 
-Crack hide secrets in your Obsidian.md vault
-
 Cracking tool for https://github.com/meld-cp/obsidian-encrypt which create encrypted notes within Obsidian.md vault.
 
 Example:
